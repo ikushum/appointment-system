@@ -11,7 +11,7 @@ yarn dev
 
 ## Features
 - Lists alll doctors available for appointment.
-- Lets user choose data of appointment with a doctor.
+- Lets user choose date of appointment with a doctor.
 - Lets user choose a 30 minute time slot for appointment with a doctor.
 - Lets users see a list of appointments they have booked.
 
